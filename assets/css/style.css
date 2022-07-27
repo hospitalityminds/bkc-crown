@@ -1808,7 +1808,7 @@ label {
   content: "";
   top: 0;
   bottom: 0;
-  background-image: url(../img/ddr.jpeg);
+  background-image: url(../../ddr.jpeg);
   width: 50%;
   border-radius: 0 5px 0 0;
   background-size: cover;
@@ -1828,7 +1828,7 @@ label {
   content: "";
   top: 0;
   bottom: 0;
-  background-image: url(../img/dqr.jpeg);
+  background-image: url(../../dqr.jpeg);
   width: 50%;
   border-radius: 0 5px 0 0;
   background-size: cover;
@@ -1848,7 +1848,7 @@ label {
   content: "";
   top: 0;
   bottom: 0;
-  background-image: url(../img/sdr.jpeg);
+  background-image: url(../../sdr.jpeg);
   width: 50%;
   border-radius: 0 5px 0 0;
   background-size: cover;
@@ -1871,7 +1871,7 @@ label {
   content: "";
   top: 0;
   bottom: 0;
-  background-image: url(../img/dtr.jpeg);
+  background-image: url(../../dtr.jpeg);
   width: 50%;
   border-radius: 0 5px 0 0;
   background-size: cover;
