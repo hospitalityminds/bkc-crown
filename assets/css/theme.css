@@ -152,7 +152,9 @@ ul ul {
 dt {
     font-weight: 700
 }
-
+.fa-instagram:before {
+    content: "\f16d"
+}
 dd {
     margin-bottom: .5rem;
     margin-left: 0
